@@ -1,1 +1,1 @@
-console.log('sike you thought :lmao:')
+console.log('LMAO GOT YOUR IP AHSDLAISHDLAKSH')
